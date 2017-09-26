@@ -7,3 +7,4 @@ function reverse($str){
 	return implode(array_reverse($r));
 }
 echo reverse('www.phpha.com天涯PHP博客');
+// 结果：客博PHP涯天moc.ahphp.www

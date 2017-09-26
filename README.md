@@ -28,3 +28,9 @@
 ## 其他
 
 - [进程与线程的区别](http://twei.site/2017/08/06/%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB/)
+
+## 参考
+
+面试题来源，可能不全。
+
+- [PHP面试中常见的字符串与文件操作题目](http://blog.phpha.com/backup/archives/1671.html)
