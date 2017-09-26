@@ -1,6 +1,6 @@
 <?php
 /**
- * 找出path相对与conpath的路径
+ * 找出path相对于conpath的路径
  */
 function getRelativePath($path, $conpath) {
 	$pathArr = explode("/", $path);

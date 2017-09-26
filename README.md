@@ -14,10 +14,10 @@
 ## 数据结构和算法
 
 - [常用排序算法](https://github.com/Twei1994/Sort-Algorithms-written-by-PHP)
-- [翻转中文字符串]()
-- [计算URL的文件后缀名]()
-- [计算两个文件的相对路径]()
-- [遍历目录下的所有文件和文件夹]()
+- [翻转中文字符串](https://github.com/Twei1994/Common-interview-questions-in-PHP/blob/master/Data%20Structure%20And%20Algorithm/ReverseChinese.php)
+- [计算URL的文件后缀名](https://github.com/Twei1994/Common-interview-questions-in-PHP/blob/master/Data%20Structure%20And%20Algorithm/GetExt.php)
+- [计算两个文件的相对路径](https://github.com/Twei1994/Common-interview-questions-in-PHP/blob/master/Data%20Structure%20And%20Algorithm/getRelativePath.php)
+- [遍历目录下的所有文件和文件夹](https://github.com/Twei1994/Common-interview-questions-in-PHP/blob/master/Data%20Structure%20And%20Algorithm/getFiles.php)
 
 ## 数据库
 
